@@ -1,1 +1,1 @@
-Task 0 Where am i
+This repo contains solution the 0x01 shell task
