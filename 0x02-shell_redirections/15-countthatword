@@ -1,2 +1,2 @@
-#!/bon/bash
-cat /etc/passwd |grep root
+#!/bin/bash
+grep -c -i "bin" /etc/passwd
