@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PATH:/action
+paste - - | cut -d$'\t' -f1
